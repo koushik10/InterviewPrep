@@ -1,0 +1,8 @@
+package multiThreading;
+
+public class TestMultiPriority {
+
+	public void run(){
+		sysout
+	}
+}
